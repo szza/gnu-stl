@@ -3,6 +3,7 @@
 gcc9.0中的STL源码。
 
 相关STL源码分析博客：
++ [源码分析auto_ptr & unique_ptr 设计](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247487570&idx=1&sn=5f6d46a2fe934412bc18f5b019de7dbd&chksm=c1f69e63f68117759a201dab4dccbb512d6d92f21ffae37171d03fd8de979bba96dc308b6595&token=566441385&lang=zh_CN#rd)
 + [源码分析 `std::vector<bool>` 设计](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247487415&idx=1&sn=110bcacb3f7a7f86a7afb33ca6c5c772&chksm=c1f68186f68108900e42dfd9aa4ad49c95f2b5118902796050e51833d1b04b8888546cfd556a&token=139697117&lang=zh_CN#rd)
 + [源码分析 `std::sort` 函数设计](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247486922&idx=1&sn=5d8336a50d0fe7ebdc0c13e9dc8816cf&chksm=c1f683fbf6810aedda75cb7408e00752aab62b0313591fbe73e2551cea0d77a2022ae5169a12&token=139697117&lang=zh_CN#rd)
 + [源码分析`std::tuple`设计](https://mp.weixin.qq.com/s?__biz=MzkyMjIxMzIxNA==&mid=2247485249&idx=1&sn=f395397f1621cf8a4d897d0213ca1788&chksm=c1f68970f68100666cbb65313780797bc65490703dac02a9603e0b9733fa01db270ca445f0e6&token=139697117&lang=zh_CN#rd)
